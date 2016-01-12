@@ -1,0 +1,6 @@
+C:\Users\v-ljianp\Downloads\foxitSDK-master\ASEproject\RegisterService_L\bin\RegisterService_L.dll.config
+C:\Users\v-ljianp\Downloads\foxitSDK-master\ASEproject\RegisterService_L\bin\RegisterService_L.dll
+C:\Users\v-ljianp\Downloads\foxitSDK-master\ASEproject\RegisterService_L\bin\RegisterService_L.pdb
+C:\Users\v-ljianp\Downloads\foxitSDK-master\ASEproject\RegisterService_L\obj\Debug\RegisterService_L.dll
+C:\Users\v-ljianp\Downloads\foxitSDK-master\ASEproject\RegisterService_L\obj\Debug\RegisterService_L.pdb
+C:\Users\v-ljianp\Downloads\foxitSDK-master\ASEproject\RegisterService_L\obj\Debug\RegisterService_L.csprojResolveAssemblyReference.cache

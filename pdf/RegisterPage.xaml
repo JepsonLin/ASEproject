@@ -1,0 +1,27 @@
+﻿<Page
+    x:Class="pdf.RegisterPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:pdf"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock x:Name="PageTitle" Text="RegisterPage"/>
+        <StackPanel x:Name="contentPanel" Margin="8,32,0,0">
+
+            <TextBlock Text="Account"/>
+            <StackPanel x:Name="AccountPannel" Orientation="Horizontal" Margin="0,20,0,20">
+                <TextBox x:Name="AccountInput" Width="280" HorizontalAlignment="Left"/>
+            </StackPanel>
+            <TextBlock Text="Password"/>
+            <StackPanel x:Name="PasswordPannel" Orientation="Horizontal" Margin="0,20,0,20">
+                <TextBox x:Name="PasswordInput" Width="280" HorizontalAlignment="Left"/>
+            </StackPanel>
+            <HyperlinkButton HorizontalAlignment="left" Content="register" Click="Hyperlinkbutton_Click_register_confirm"/>
+            <TextBlock x:Name="greetingOutput"/>
+        </StackPanel>
+
+    </Grid>
+</Page>
